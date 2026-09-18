@@ -12,6 +12,7 @@ cohesa.github.io/
     ├── Antifungal_COM26.pdf
     ├── Antifungal_FLACP26.pdf
     ├── Candida_IDWeek25.pdf
+    ├── Gene_NIAMRRE23.pdf
     ├── MRSA_EPI23.pdf
     ├── MRSA_FLACP23.pdf
     ├── MRSA_PHHP23.pdf
@@ -37,7 +38,7 @@ cohesa.github.io/
 
 1. Create a public GitHub repository named `cohesa.github.io`.
 2. Upload `index.html` and `styles.css` to the repository root.
-3. Create a folder named `posters` and upload all 22 PDFs with filenames unchanged.
+3. Create a folder named `posters` and upload all 23 PDFs with filenames unchanged.
 4. Open **Settings → Pages**.
 5. Under **Build and deployment**, select **Deploy from a branch**.
 6. Select `main` and `/(root)`, then save.
