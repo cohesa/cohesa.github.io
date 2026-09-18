@@ -51,6 +51,12 @@ Use the direct PDF URL in each Poster URL field:
 https://cohesa.github.io/posters/FILENAME.pdf
 ```
 
-## Metadata verification
+Example:
 
-Titles, meetings, author lists, and awards were populated from the August 2026 CV.
+```text
+https://cohesa.github.io/posters/Candida_IDWeek25.pdf
+```
+
+## Metadata source
+
+Poster titles, author lists, event names, presentation months, locations, and scholarly collection labels match the September 2026 MyERAS Scholarly Work entries supplied by the author. Award badges provide additional context from the author's CV.
