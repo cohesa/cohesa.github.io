@@ -238,6 +238,16 @@ h3 {
   color: #415461;
 }
 
+.event-link {
+  color: var(--blue);
+  font-weight: 650;
+  text-underline-offset: 2px;
+}
+
+.event-link:hover {
+  color: var(--navy);
+}
+
 .poster-link {
   display: inline-flex;
   gap: 7px;
