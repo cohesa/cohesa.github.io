@@ -51,12 +51,6 @@ Use the direct PDF URL in each Poster URL field:
 https://cohesa.github.io/posters/FILENAME.pdf
 ```
 
-Example:
-
-```text
-https://cohesa.github.io/posters/Candida_IDWeek25.pdf
-```
-
 ## Metadata verification
 
-Titles, meetings, author lists, and awards were populated from the August 2026 CV. Before publishing, compare each card against the corresponding PDF. In particular, verify the complete author list for `OldMRSA_EPI19.pdf` because the CV lists the presentation without authors.
+Titles, meetings, author lists, and awards were populated from the August 2026 CV.
